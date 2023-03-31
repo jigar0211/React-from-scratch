@@ -1,5 +1,5 @@
-import React from 'react'
-import "App.css"
+import React from 'react';
+import "App.css";
 import Picture from "./component/Picture";
 import Navbar from "./component/Navbar";
 
