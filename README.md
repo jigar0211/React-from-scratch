@@ -50,15 +50,17 @@ If you're using Linux or another operating system, use one of the following inst
 
 Or see this page to install npm for Linux in the way many Linux developers prefer.
 
-### Starting a new ReactJS Project
+# Starting a new ReactJS Project
 To initialize a new Node.js project and generate a ```package.json``` file with default values, without prompting the user for any information.
 
----
-**NOTE :** The -y flag stands for "yes", indicating that the user accepts all the default values.
+
 ```
 npm init -y
 ```
 ---
+>**NOTE :** The -y flag stands for "yes", indicating that the user accepts all the default values.
+---
+
 A ```package.json``` file is created in the current directory with the following default values:
 ```
 {
